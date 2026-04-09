@@ -1,4 +1,6 @@
-# 딥러닝 기반 주차공간 안내 시스템
+# 딥러닝 기반 주차공간 안내 시스템 (어플)
+### 개발일자: 2022.09 ~ 2022.12 (인원 수 : 5명)
+
 <img width="833" height="528" alt="캡디_어플 사진1" src="https://github.com/user-attachments/assets/3b2711ef-bb84-43ca-a7cd-8c0e352a3459" />
 
 ### 📜 배경
