@@ -1,31 +1,16 @@
-# capstone
+# 딥러닝 기반 주차공간 안내 시스템
+<img width="833" height="528" alt="캡디_어플 사진1" src="https://github.com/user-attachments/assets/3b2711ef-bb84-43ca-a7cd-8c0e352a3459" />
 
-A new Flutter project.
+### 📜 배경
 
-## Getting Started
+---
+- 실내 주차장에서 볼 수 있는 만차등과 같은 시스템은 야외 주차장에서 적용하기 쉽지 않아 교통 혼잡도 증가와 같은 문제를 일으킬 우려가 있다고 생각하였습니다.
+- 이에 따라, 주차 공간 현황을 안내하는 방법을 안내하는 애플리케이션을 개발하고자 하였습니다.
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
 
-### IMPORTANT:
+### 🔎 프로젝트 내용
 
-For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
+---
 
-```
-flutter pub get
-flutter packages pub run build_runner build --delete-conflicting-outputs
-```
+![캡디_어플 사진3](https://github.com/user-attachments/assets/b3caefbe-0dc6-4377-8693-efed86190751)
 
-This command creates the generated files that parse each Record from Firestore into a schema object.
-
-### Getting started continued:
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
