@@ -51,7 +51,7 @@
     <p><img width="710" height="225" alt="cap1 checking" src="https://github.com/user-attachments/assets/53344f98-0810-4f70-842f-b1572afbb641" /></p>
     <ul>
       <li>카메라를 통해 촬영된 주차 공간을 와핑(warping)하는 과정을 거쳐 Top-View로 전환한다.</li>
-      <li>주차 공간의 여유 공간을 구분하여 데이터베이스에 저장한다.</li>
+      <li>YOLO를 활용하여 실시간 객체 탐지를 수행하고, 주차 공간의 여유 공간을 구분하여 DB에 저장한다.</li>
     </ul>
   </div>
 
@@ -78,7 +78,7 @@
       <p>카메라 촬영 각도의 문제</p>
       <ul> 
         <li>특정 차량의 일부가 가려지는 현상으로 인해 주차장의 top-view시점에서 카메라 촬영이 필요</li>
-        <li>이미지를 왜곡하는 기술인 와핑(warping)을 사용해 top-view로 전환하여 진행</li>
+        <li>이미지를 왜곡하는 기술인 와핑(warping)을 사용해 top-view시점으로 전환하여 진행</li>
       </ul>
     </li>
     <li>
