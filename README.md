@@ -18,15 +18,20 @@
   <h3>🔎 프로젝트 내용</h3>
   <hr>
 
-  <ul>
-    <li><p>개발일자: 2022.09 ~ 2022.12</p></li>
-    <li>⭐ 5명의 팀원 (주요 역할)</li>
+  <div>
+    <p>📅 개발일자: 2022.09 ~ 2022.12</p>
+    <p>⭐ 인원 수: 5명 (팀 프로젝트)</p>
     <ul>
       <li>AI 개발 : 3명</li>
       <li>애플리케이션 및 DB 개발 : 2명 (본인)</li>
       <li>데이터셋 수집 및 분류 : 3명 (본인)</li>
     </ul>
-  </ul>
+    <p>🛠️ 관련 기술</p>
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/yolo-FCC624?style=for-the-badge&logo=yolo&logoColor=black">
+  </div>
 
   <br>
 
